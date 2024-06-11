@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bramp135/http://icommission.ca/
+    - export DEPLOYPATH=/home/bramp135/icommission.ca/
     - /bin/cp -r * $DEPLOYPATH
